@@ -1,4 +1,4 @@
-##Arduino Bin Code
+#Arduino Bin Code
 
- - Servo Motor
- - Ultrasonic Sensor 
+![alt text](https://github.com/ggboots/InDaBin-Arduino/blob/main/inDaBin_WiringDiagram.png)
+
